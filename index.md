@@ -3,6 +3,8 @@
 
 [Research](research.md)
 
+[CV](cv.md)
+
 * * *
 
 <h2>Contact</h2>
