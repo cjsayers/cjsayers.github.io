@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Home
 ---
 
 <h1>Home</h1>
