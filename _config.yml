@@ -6,7 +6,7 @@ description: Electronic structure of 2D materials
 logo: /images/VSe2_geo_large.png
 
 show_downloads: false
-google_analytics: UA-149329790-2
+#google_analytics: UA-149329790-2
 
 markdown: kramdown
 highlighter: rouge
