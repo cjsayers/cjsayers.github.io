@@ -1,9 +1,5 @@
+<h1>Home</h1>
 
-[Publications](publications.md)
-
-[Research](research.md)
-
-[CV](cv.md)
 
 * * *
 
