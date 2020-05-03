@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 
 title: [Charles James Sayers]
 description: [Electronic structure of 2D materials]
-logo: [/images/VSe2_geo_large]
 
 markdown: kramdown
 highlighter: rouge
