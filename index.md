@@ -12,4 +12,8 @@ News
 
 **New paper** in Physical Review Letters discussing the charge-density-wave induced Fermi surface reconstruction in TiSe2 based on quantum oscillations and magnetotransport measurements.
 
-Read it [here](https://doi.org/10.1103/PhysRevLett.124.167602)
+[Read it here](https://doi.org/10.1103/PhysRevLett.124.167602)
+
+<p align="center">
+  <img width="350" height="350" src="/images/tise2_qo.png">
+</p>
