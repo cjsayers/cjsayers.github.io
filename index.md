@@ -5,7 +5,6 @@ title: Home
 
 <h1>Home</h1>
 
-News
 * * *
 
 **22/04/2020**
