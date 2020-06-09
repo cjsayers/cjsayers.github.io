@@ -9,13 +9,10 @@ title: Home
 
 **01/06/2020**
 
-I am now Research Fellow in the [Ultrafast Spectroscopy group](https://www.femtosecond.fisi.polimi.it/) at Politecnico di Milano.
+I am now Research Fellow in the [Ultrafast Spectroscopy group](https://www.femtosecond.fisi.polimi.it/) at Politecnico di Milano. Exciting science to come!
 
-<p align="center">
-  <img src="/images/polimi.png" width="25%" height="25%">
-</p>
+<img src="/images/polimi.png" width="50%" height="50%">
 
-Watch this space!
 * * *
 
 **22/04/2020**
