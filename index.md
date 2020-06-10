@@ -22,5 +22,5 @@ I am now Research Fellow in the [Ultrafast Spectroscopy group](https://www.femto
 [New paper](https://doi.org/10.1103/PhysRevLett.124.167602) in *Physical Review Letters* discussing the charge-density-wave induced Fermi surface reconstruction in TiSe<sub>2</sub> based on quantum oscillations and magnetotransport measurements.
 
 <p align="center">
-  <img src="/images/tise2_qo.png" width="350" height="350">
+  <img src="/images/tise2_qo.png" width="50%" height="50%">
 </p>
