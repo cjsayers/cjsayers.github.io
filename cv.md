@@ -3,6 +3,8 @@ layout: default
 title: CV
 ---
 
+# CV
+
 ## PhD, University of Bath
 ### 2015 - 2020
 
