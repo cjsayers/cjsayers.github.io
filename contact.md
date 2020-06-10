@@ -3,10 +3,11 @@ layout: default
 title: Contact
 ---
 
-## Contact
+# Contact
+
+<br>
 
 **Charles Sayers**
-
 <br>
 
 Physics Department,
@@ -25,4 +26,4 @@ Italy
 
 <br>
 
-Email: charles.sayers@polimi.it
+Email: [charles.sayers@polimi.it](mailto:charles.sayers@polimi.it)
