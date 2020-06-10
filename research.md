@@ -3,7 +3,9 @@ layout: default
 title: Research
 ---
 
-# Ultrafast studies of charge density waves
+# Research
+
+## Ultrafast studies of charge density waves
 
 Using ultrafast lasers, it's possible to induce phase transtions in CDW and monitor this process in real time. For this, I use a technique known as time- and angle-resolved photoemission spectroscopy (TR-ARPES).
 
@@ -13,4 +15,4 @@ Using ultrafast lasers, it's possible to induce phase transtions in CDW and moni
 
 ***
 
-# Electronic structure of 2D materials
+## Electronic structure of 2D materials
