@@ -3,23 +3,26 @@ layout: default
 title: Contact
 ---
 
-<h2>Contact</h2>
-**Charles James Sayers**
+## Contact
+
+**Charles Sayers**
 
 <br>
 
-Centre for Nanoscience and Nanotechnology, 
-
-Department of Physics, 
-
-University of Bath, 
-
-Bath BA2 7AY, 
-
-United Kingdom
+Physics Department,
+<br>
+Politecnico di Milano,
+<br>
+Campus Leonardo,
+<br>
+Building 8,
+<br>
+Piazza Leonardo da Vinci, 32
+<br>
+Milano (MI), 20133
+<br>
+Italy
 
 <br>
 
-c.j.sayers@bath.ac.uk
-
-<br>
+Email: charles.sayers@polimi.it
