@@ -5,6 +5,8 @@ title: CV
 
 # CV
 
+* * *
+
 ## PhD, University of Bath
 ### 2015 - 2020
 
@@ -20,7 +22,4 @@ My thesis focuses on understanding phase transitions in layered transition metal
 <p align="left">
   <img width="100" height="100" src="/images/cardiff.jpg">
 </p>
-
-
-***
 
