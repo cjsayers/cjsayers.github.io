@@ -1,12 +1,12 @@
 #Jekyll config
 theme: jekyll-theme-minimal
 
-title: Charles James Sayers
-description: Electronic structure and dynamics of 2D materials
+title: C. J. Sayers
+description: Investigating the electronic structure and dynamics of 2D materials.
 logo: /images/vse2_fs.png
 
 show_downloads: false
-#google_analytics: UA-149329790-2
+google_analytics: UA-149329790-2
 
 markdown: kramdown
 highlighter: rouge
