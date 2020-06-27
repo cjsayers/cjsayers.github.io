@@ -29,3 +29,7 @@ Italy
 <br>
 
 Email: [charles.sayers@polimi.it](mailto:charles.sayers@polimi.it)
+
+<a href="https://www.linkedin.com/in/sayerscj/"><img alt="linkedin" src="/images/linkedin.png" style="float: left; width: 15%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+<a href="https://www.researchgate.net/profile/Charles_Sayers"><img alt="researchgate" src="/images/researchgate.png" style="float: left; width: 15%; margin-right: 1%; margin bottom: 0.5em;"></a>
+<a href="https://scholar.google.com/citations?user=d7D6wXQAAAAJ&hl=en"><img alt="googlescholar" src="/images/googlescholar.png" style="float: left; width: 15%; margin-right: 1%; margin-bottom: 0.5em;"></a>
