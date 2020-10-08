@@ -12,7 +12,7 @@ title: Research
 Using intense ultrashort laser pulses, it's possible to induce phase transtions in strongly-correlated materials by destroying forms of electronic and lattice order. Ultrafast spectroscopy techniques allow us to monitor this process in real time, and can help us understand more about the driving mechanism responsible for various phases of matter. For this work, I use a combination of time-resolved optical and photoemission spectoscopy techniques (TR-ARPES).
 
 <p align="center">
-  <img src="/images/tase2_trarpes.png" width="90%" height="90%" >
+  <img src="/images/tase2_trarpes.png" width="70%" height="70%" >
 </p>
 
 * * *
