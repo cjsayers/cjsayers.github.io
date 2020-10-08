@@ -8,7 +8,7 @@ title: Home
 * * *
 
 **08/10/2020**
-[New Rapid Communication](https://doi.org/10.1103/PhysRevLett.124.167602) in *Physical Review B*. Using complementary time-resolved techniques, we studied coherent phonon oscillations in the coexisting CDW-Mott phase in 1*T*-TaSe<sub>2</sub>
+[New Rapid Communication](https://doi.org/10.1103/PhysRevB.102.161105) in *Physical Review B*. Using complementary time-resolved techniques, we studied coherent phonon oscillations in the coexisting CDW-Mott phase in 1*T*-TaSe<sub>2</sub>
 
 <p align="center">
   <img src="/images/tase2_oscillations.png" width="100%" height="100%">
