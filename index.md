@@ -10,13 +10,17 @@ title: Home
 **14/12/2020**
 [New preprint](https://arxiv.org/abs/2012.02660) on arXiv: *Investigation of the Non-equilibrium State of Strongly Correlated Materials by Complementary Ultrafast Spectroscopy Techniques*. In this work, we demonstrate the advantages of combining multiple ultrafast spectroscopy techniques to study complex systems.
 
+<p align="center">
+  <img src="/images/combined_techniques.png" width="50%" height="50%">
+</p>
+
 * * *
 
 **08/10/2020**
 [New Rapid Communication](https://doi.org/10.1103/PhysRevB.102.161105) in *Physical Review B*. Using complementary time-resolved techniques, we studied coherent phonon oscillations in the coexisting CDW-Mott phase in 1*T*-TaSe<sub>2</sub>
 
 <p align="center">
-  <img src="/images/tase2_trarpes.png" width="100%" height="100%">
+  <img src="/images/tase2_trarpes.png" width="80%" height="80%">
 </p>
 
 * * *
