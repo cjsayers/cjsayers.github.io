@@ -11,7 +11,7 @@ title: Home
 [New preprint](https://arxiv.org/abs/2101.03048) on arXiv: *Observation of the charge density wave collective mode in the infrared optical response of VSe<sub>2</sub>*. Thanks to our collaborators at the University of Amsterdam.
 
 <p align="center">
-  <img src="/images/vse2_sigma.png" width="50%" height="50%">
+  <img src="/images/vse2_sigma.png" width="65%" height="65%">
 </p>
 
 **14/12/2020**
