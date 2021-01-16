@@ -8,6 +8,13 @@ title: Home
 * * *
 
 **14/12/2020**
+[New preprint](https://arxiv.org/abs/2101.03048) on arXiv: *Observation of the charge density wave collective mode in the infrared optical response of VSe<sub>2</sub>*. Thanks to our collaborators at the University of Amsterdam.
+
+<p align="center">
+  <img src="/images/vse2_sigma.png" width="50%" height="50%">
+</p>
+
+**14/12/2020**
 [New preprint](https://arxiv.org/abs/2012.02660) on arXiv: *Investigation of the Non-equilibrium State of Strongly Correlated Materials by Complementary Ultrafast Spectroscopy Techniques*. In this work, we demonstrate the advantages of combining multiple ultrafast spectroscopy techniques to study complex systems.
 
 <p align="center">
