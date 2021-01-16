@@ -11,7 +11,7 @@ title: Home
 [New preprint](https://arxiv.org/abs/2101.03048) on arXiv: *Observation of the charge density wave collective mode in the infrared optical response of VSe<sub>2</sub>*. Thanks to our collaborators at the University of Amsterdam.
 
 <p align="center">
-  <img src="/images/vse2_sigma.png" width="65%" height="65%">
+  <img src="/images/vse2_sigma.png" width="60%" height="60%">
 </p>
 
 **14/12/2020**
@@ -37,7 +37,7 @@ title: Home
 I am now Research Fellow in the [Ultrafast Spectroscopy group](https://www.femtosecond.fisi.polimi.it/) at Politecnico di Milano. Exciting science to come!
 
 <p align="center">
-  <img src="/images/polimi.png" width="50%" height="50%">
+  <img src="/images/polimi_large.png" width="50%" height="50%">
 </p>
 
 * * *
