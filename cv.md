@@ -8,13 +8,14 @@ title: CV
 * * *
 
 ## Politecnico di Milano
+### Research Fellow
 ### 2020 - present
 
 <p align="left">
   <img width="100" height="100" src="/images/polimi.jpg">
 </p>
 
-I am currently Research fellow in the [Ultrafast Spectroscopy group](https://www.femtosecond.fisi.polimi.it/) at Politecnico di Milano where we use ultrafast optical spectroscopy to investigate the electron and phonon dynamics of 2D materials and their heterostructures.
+I am currently Research Fellow in the [Ultrafast Spectroscopy group](https://www.femtosecond.fisi.polimi.it/) at Politecnico di Milano where we use femtosecond laser pulses to probe the electron and phonon dynamics of 2D materials and their heterostructures.
 
 ## University of Bath
 ### PhD
