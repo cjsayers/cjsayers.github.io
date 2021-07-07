@@ -11,7 +11,7 @@ title: Home
 [New preprint](https://arxiv.org/abs/2107.01164) on arXiv: *Site-specific symmetry sensitivity of angle-resolved photoemission spectroscopy in layered palladium diselenide*.
 
 <p align="center">
-  <img src="/images/pdse2_dft.png" width="60%" height="60%">
+  <img src="/images/pdse2_dft.png" width="80%" height="80%">
 </p>
 
 * * *
