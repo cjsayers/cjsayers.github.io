@@ -11,7 +11,7 @@ title: Home
 *Signatures of the charge density wave collective mode in the infrared optical response of VSe<sub>2</sub>* published as [Editor's Suggestion](https://doi.org/10.1103/PhysRevB.104.165134) in PRB!
 
 <p align="center">
-  <img src="/images/vse2_collective.png" width="80%" height="80%">
+  <img src="/images/vse2_collective.png" width="50%" height="50%">
 </p>
 
 * * *
