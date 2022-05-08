@@ -3,7 +3,7 @@ layout: default
 title: Curriculum vitae
 ---
 
-# CV
+# Curriculum vitae
 
 * * *
 
