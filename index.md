@@ -11,7 +11,7 @@ title: Home
 New preprint available on [arXiv](https://doi.org/10.48550/arXiv.2302.07561) *Strong Coupling of Coherent Phonons to Excitons in Semiconducting Monolayer 2H-MoTe<sub>2</sub>*
 
 <p align="center">
-  <img src="/images/mote2_osc.png" width="75%" height="75%">
+  <img src="/images/mote2_micro.png" width="75%" height="75%">
 </p>
 
 * * *
