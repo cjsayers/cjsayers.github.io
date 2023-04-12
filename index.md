@@ -11,7 +11,7 @@ title: Home
 *Exploring the Charge Density Wave State of 1T-TaSe<sub>2</sub>: Mott or Charge-Transfer Gap?* published in [Physical Review Letters](https://doi.org/10.1103/PhysRevLett.130.156401)
 
 <p align="center">
-  <img src="/images/tase2_artemis-I.png" width="50%" height="50%">
+  <img src="/images/tase2_artemis-I.png" width="75%" height="75%">
 </p>
 
 * * *
