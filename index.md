@@ -7,6 +7,11 @@ title: Home
 
 * * *
 
+**12/04/2023**
+*Exploring the Charge Density Wave State of 1T-TaSe<sub>2</sub>: Mott or Charge-Transfer Gap?* published in [Physical Review Letters](https://doi.org/10.1103/PhysRevLett.130.156401)
+
+* * *
+
 **15/02/2023**
 New preprint available on [arXiv](https://doi.org/10.48550/arXiv.2302.07561) *Strong Coupling of Coherent Phonons to Excitons in Semiconducting Monolayer 2H-MoTe<sub>2</sub>*
 
@@ -21,15 +26,6 @@ New preprint available on [arXiv](https://doi.org/10.48550/arXiv.2302.07561) *St
 
 <p align="center">
   <img src="/images/tase2_osc.png" width="75%" height="75%">
-</p>
-
-* * *
-
-**22/10/2021**
-*Signatures of the charge density wave collective mode in the infrared optical response of VSe<sub>2</sub>* published as [Editor's Suggestion](https://doi.org/10.1103/PhysRevB.104.165134) in PRB.
-
-<p align="center">
-  <img src="/images/vse2_collective.png" width="50%" height="50%">
 </p>
 
 * * *
