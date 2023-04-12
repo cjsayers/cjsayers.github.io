@@ -7,6 +7,7 @@ title: Publications
 
 * * *
 
+1. **C. J. Sayers**, G. Cerullo, Y. Zhang, C. E. Sanders, R. T. Chapman, A. S. Wyatt, G. Chatterjee, E. Springate, D. Wolverson, E. Da Como, and E. Carpene. Exploring the Charge Density Wave Phase of 1*T*-TaSe<sub>2</sub>: Mott or Charge-Transfer Gap? [Phys. Rev. Lett. 130, 156401 (2023)](https://doi.org/10.1103/PhysRevLett.130.156401)
 1. O. Moulding, T. Muramatsu, **C. J. Sayers**, E. Da Como, and S. Friedemann.  Suppression of charge-density-wave order in TiSe<sub>2</sub> studied with high-pressure magnetoresistance. [Electron. Struct. 4, 035001 (2022)](https://doi.org/10.1088/2516-1075/ac858c)
 1. **C. J. Sayers**, S. Dal Conte, D. Wolverson, C. Gadermaier,  G. Cerullo, E. Carpene, and E. Da Como. Spectrally Resolving the Phase and Amplitude of Coherent Phonons in the Charge Density Wave State of 1*T*-TaSe<sub>2</sub>. [Adv. Optical Mater. 10, 2200362 (2022)](https://doi.org/10.1002/adom.202200362)
 2. D. Wolverson, B. Smith, E. Da Como, **C. Sayers**, G. Wan, L. Pasquali, and M. Cattelan. First-Principles Estimation of Core Level Shifts for Hf, Ta, W, and Re. [J. Phys. Chem. C 126, 9135-9142 (2022)](https://doi.org/10.1021/acs.jpcc.2c00981)
